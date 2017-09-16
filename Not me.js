@@ -1,1 +1,0 @@
-var dotDotDot= ("Ss"); var creeperSound= (dotDotDot + dotDotDot); var dashDash = ("Mm"); var tasty = (dashDash + dashDash); console.log(creeperSound + tasty); for (var i = 0; i >= 0; i++) {console.log("YOU JUST GOT PRANKED!!!!!")}; 
