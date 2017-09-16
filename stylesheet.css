@@ -1,0 +1,24 @@
+*{
+  text-align: center;
+}
+h2{
+  font-family: serif;
+  font-style: italic;
+}
+h1{
+  font-family: sans-serif;
+}
+body{
+  background-color: #ffa64d;
+}
+#list{
+  float: left;
+}
+#enemies{
+  float: right;
+  width: 200px;
+  margin-right: 20px;
+}
+#repair{
+  margin-top: 200px;
+}
